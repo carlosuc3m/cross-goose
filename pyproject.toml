@@ -31,7 +31,7 @@ dependencies = [
     "natsort",
     "numba",
     "numpy",
-    "opencv-python",
+    "opencv-python-headless",
     "pandas",
     "roifile",
     "scikit-image",
